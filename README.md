@@ -8,11 +8,6 @@ Automated Roof adalah sebuah sistem atap otomatis yang dapat beradaptasi dengan 
 * Ilham Khodar Trijaya 110321003084
 * Haldi Alfiansyach 1103213196
 
-## Daftar Isi
-
-> [TOC]
-
-
 > **[CLO 4]** Memiliki kemampuan untuk menganalisis sistem kendali loop tertutup pada kondisi transien dan steady state untuk melihat performansinya.
 > **[CLO 5]** Memiliki kemampuan merancang sistem kendali motor DC.
 <!--
